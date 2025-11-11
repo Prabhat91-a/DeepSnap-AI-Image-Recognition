@@ -1,0 +1,7 @@
+Firstly Open VS-Code in DeepSnap Image Recognition Folder then Follow the following steps:-
+
+1. Open New Terminal
+2. To run Backend code run this commands in the Terminal = CD Backend > npm i > npm run start
+3. You need to open new terminal for Frontend
+4. To run Frontend code run this commands in the Terminal = CD Frontend > npm i > npm run dev
+
